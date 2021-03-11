@@ -1,6 +1,6 @@
 # gesture-control-car
 robotics
-![WhatsApp Image 2021-02-27 at 20 55 10](https://user-images.githubusercontent.com/74725425/109392692-8ff68680-7943-11eb-999b-d6080cd34552.jpeg)
+![WhatsApp Image 2021-03-11 at 2 29 58 PM](https://user-images.githubusercontent.com/76094061/110767930-c1911b00-827c-11eb-923c-3d3d7e4127f2.jpeg)
 ## Abstract
 Gesture recognition means response to the change in
 spatial position of a object by the system being
